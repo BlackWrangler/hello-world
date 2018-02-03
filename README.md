@@ -1,2 +1,5 @@
 # hello-world
-hello-world as it is
+ex slogan
+# Message to the world
+Hello, humans! This is it.
+One more line
